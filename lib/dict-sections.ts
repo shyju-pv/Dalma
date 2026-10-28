@@ -1,0 +1,22 @@
+// Editable text for the home page sections. [key, English, Arabic]
+export const sectionRows: [string, string, string][] = [
+  ["wl.1.t","Qualified physicians","أطباء مؤهلون"],["wl.1.d","Experienced Ayurvedic physicians guide every treatment.","يشرف على كل علاج أطباء أيورفيدا ذوو خبرة."],
+  ["wl.2.t","Traditional Kerala therapies","علاجات كيرالية تقليدية"],["wl.2.d","Shirodhara, Pizhichil, Kizhi and more.","شيرودهارا وبيزيتشيل وكيزهي وغيرها."],
+  ["wl.3.t","Personalised plans","خطط شخصية"],["wl.3.d","Care shaped around your constitution and goals.","رعاية مصممة حسب تركيبتك وأهدافك."],
+  ["wl.4.t","Easy to find","سهولة الوصول"],["wl.4.d","Near Al Zahra Hospital, Sharjah.","بالقرب من مستشفى الزهراء، الشارقة."],
+  ["wl.badge.t","Kerala Ayurveda","أيورفيدا كيرالية"],["wl.badge.d","Traditional approach","نهج تقليدي"],
+  ["ts.prev","Previous testimonials","الآراء السابقة"],["ts.next","Next testimonials","الآراء التالية"],["ts.go","Go to testimonial {n}","اذهب إلى الرأي {n}"],
+  ["jr.eb","Your journey","رحلتك"],["jr.t","Your Wellness Journey","رحلتك نحو العافية"],["jr.d","A simple, step-by-step path from your first visit to lasting wellbeing.","مسار بسيط خطوة بخطوة من زيارتك الأولى إلى عافية تدوم."],
+  ["jr.s1.t","Consultation","الاستشارة"],["jr.s1.d","Meet your physician to talk through your health, history and goals.","تلتقي بطبيبك لمناقشة حالتك الصحية وتاريخك وأهدافك."],
+  ["jr.s2.t","Assessment","التقييم"],["jr.s2.d","Your constitution and condition are assessed the Ayurvedic way.","يُقيَّم نمط جسمك وحالتك وفق الطريقة الأيورفيدية."],
+  ["jr.s3.t","Personalised plan","خطة شخصية"],["jr.s3.d","You receive a plan of therapies, herbal support, diet and lifestyle guidance.","تحصل على خطة تشمل العلاجات والدعم العشبي والإرشاد الغذائي ونمط الحياة."],
+  ["jr.s4.t","Therapy","العلاج"],["jr.s4.d","Your therapies are carried out as prescribed by your physician.","تُنفَّذ علاجاتك كما يصفها طبيبك."],
+  ["jr.s5.t","Follow-up","المتابعة"],["jr.s5.d","Your progress is reviewed and the plan adjusted as needed.","تُراجَع حالتك ويُعدَّل البرنامج عند الحاجة."],
+  ["pk.price","Price on request","السعر عند الطلب"],["pk.cur","AED","درهم"],["pk.pop","Most popular","الأكثر طلبًا"],["pk.book","Book now","احجز الآن"],["pk.incl","Includes","تشمل"],["pk.good","Good for","مناسبة لـ"],
+  ["ts.eb","Testimonials","آراء المرضى"],["ts.t","What our patients say","ماذا يقول مرضانا"],["ts.d","Experiences shared by people who have visited us.","تجارب شاركها زوّارنا."],
+  ["faq.eb","FAQ","الأسئلة"],["faq.side","Can’t find your answer?","لم تجد إجابتك؟"],["faq.help","Call or message us and we will be glad to help.","اتصل بنا أو راسلنا وسنسعد بمساعدتك."],["faq.call","Call us","اتصل بنا"],["faq.wa","WhatsApp us","راسلنا عبر واتساب"],
+  ["faq.q5","What happens at my first visit?","ماذا يحدث في زيارتي الأولى؟"],["faq.a5","You meet the physician for a consultation about your health, history and goals. Treatments are then recommended to suit you.","تلتقي بالطبيب لاستشارة حول حالتك الصحية وتاريخك وأهدافك، ثم تُوصى بالعلاجات التي تناسبك."],
+  ["faq.q6","Do I need an appointment?","هل أحتاج إلى موعد؟"],["faq.a6","We recommend booking so we can confirm a time. Call {phone}, message us on WhatsApp or use the booking page.","نوصي بالحجز المسبق لنؤكد لك الموعد. اتصل على {phone} أو راسلنا عبر واتساب أو استخدم صفحة الحجز."],
+  ["faq.q7","How many sessions will I need?","كم جلسة سأحتاج؟"],["faq.a7","It depends on your condition and your plan. Your physician will advise you after the consultation.","يعتمد ذلك على حالتك وخطتك. سيخبرك طبيبك بعد الاستشارة."],
+  ["faq.q8","Is Ayurvedic treatment safe with my current medicines?","هل العلاج الأيورفيدي آمن مع أدويتي الحالية؟"],["faq.a8","Please tell your physician about all medicines you take. They will advise what is suitable. Never stop prescribed medicines without medical advice.","يرجى إخبار طبيبك بجميع الأدوية التي تتناولها ليرشدك إلى ما يناسبك. ولا توقف أي دواء موصوف دون استشارة طبية."],
+];

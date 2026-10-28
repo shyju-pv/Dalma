@@ -1,0 +1,10 @@
+/* Body copy: DM Sans (Latin) / IBM Plex Sans Arabic, with a calmer rhythm for reading. */
+body{font-size:17px;line-height:1.75;letter-spacing:.004em;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizeLegibility;font-feature-settings:"kern","liga"}
+p,li,dd,blockquote,summary{text-wrap:pretty}
+h1,h2,h3,.cvt .h4{text-wrap:balance;letter-spacing:-.012em}
+.hero p,.hx p,.sh p,.jh p,.two p,.prose p{line-height:1.8}
+.sh p,.hero p{font-size:18px}
+.art p{font-size:18.5px;line-height:1.9;color:#47515D;margin:0 0 1.3em;max-width:none}
+.art .cv + p{font-size:21px;line-height:1.7;color:var(--green);font-family:var(--font-serif),Georgia,serif}
+.card p,.wli p,.jr p,.pkt,.pft,.pg{line-height:1.65}
+[dir=rtl] body{line-height:1.95;letter-spacing:0}[dir=rtl] h1,[dir=rtl] h2,[dir=rtl] h3{letter-spacing:0}[dir=rtl] .art p{line-height:2.05}
